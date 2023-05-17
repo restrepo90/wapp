@@ -2,7 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import { getCoordinates } from "./services/getCoordinates";
 import { getCurrentWeather } from "./services/getCurrentWeather";
-import WeatherInfo from "./components/weatherInfo/weatherInfo";
+import WeatherInfo from "./components/WeatherInfo/WeatherInfo"
 import ButtonChange from "./components/ButtonChange/ButtonChange";
 
 
